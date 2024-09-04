@@ -1,0 +1,291 @@
+body {
+    /* background-color: rgb(67, 222, 129); */
+    background-image: linear-gradient(to left, rgb(105, 180, 229), rgb(204, 99, 204), rgb(240, 92, 156));
+}
+
+table {
+    margin-top: 4%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(183, 146, 184);
+    margin-top: 20px;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(4, 0, 0);
+    width: 20px;
+    padding: 8px;
+
+}
+
+
+
+form {
+    width: 50%;
+    height: 50%;
+    /* background-color: black; */
+    margin-top: 8%;
+}
+
+input[type="text"] {
+    width: 60%;
+    padding: 7px;
+
+}
+
+input[type="email"] {
+    width: 60%;
+    padding: 7px;
+
+}
+
+input[type="password"] {
+    width: 60%;
+    padding: 7px;
+
+}
+
+/* button {
+    width: 8%;
+    margin-left: 10%;
+
+} */
+
+a {
+    text-decoration: none;
+    color: rgb(252, 252, 254);
+    width: 30px;
+
+}
+
+div.btn {
+    background-color: red;
+}
+
+
+
+.user {
+    width: 100px;
+    height: 120px;
+    background-color: rgb(204, 176, 246);
+    margin-top: 5%;
+    border-radius: 60px;
+
+}
+
+.name {
+    color: red;
+}
+
+.data {
+    color: rgb(248, 250, 248);
+}
+
+.pagination {
+    display: flex;
+    flex-direction: row;
+    color: red;
+    gap: 93px;
+}
+
+.last {
+    color: rgb(9, 2, 201);
+    font-size: 18px;
+    margin-right: 60%;
+}
+
+.prev {
+    color: rgb(53, 13, 79);
+    /* font-size: 18px; */
+    color: white;
+    background-color: brown;
+
+}
+
+.btn {
+    color: rgb(4, 7, 220);
+    /* padding: 22px */
+}
+
+form #form {
+    background-color: red;
+}
+
+.chill {
+    display: flex;
+    flex-direction: row;
+    /* gap: 10%; */
+
+}
+
+.l1 {
+    color: rgb(2, 1, 9);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+/* index.php and admin.php file code  */
+
+.fo1 {
+    border: 8px solid rgb(1, 0, 2);
+    max-width: 40%;
+    max-height: 90%;
+    background-color: rgb(193, 219, 236);
+
+}
+
+.i1 {
+    max-width: 80%;
+    border: 2px solid rgb(0, 8, 2);
+
+}
+
+.btn {
+    width: 20%;
+    height: 20%;
+    color: white;
+}
+
+hr {
+    width: 60%;
+    /* margin-bottom: 10%; */
+    border-width: 7px;
+    color: rgb(12, 3, 7);
+    margin-bottom: 19px;
+
+}
+
+h1 {
+    margin-bottom: 0.9px;
+    font-weight: bold;
+
+}
+
+a {
+    color: white;
+
+}
+
+.btn1 {
+    /* background-color: rgb(20, 6, 123); */
+     width: 10%;
+    max-height: 5%;
+    margin-left: 8%;
+    background-color: rgb(34, 5, 101);
+
+}
+
+
+/* Students.php file code  */
+
+.btn2 {
+    background-color: green;
+    width: 15%px;
+    /* height: 22px; */
+    padding-left: 3px;
+    margin-right: 33px;
+
+}
+
+.btn3 {
+    background-color: rgb(33, 0, 218);
+
+}
+
+.btn4 {
+    background-color: red;
+    margin-left: 80%;
+    /* height: 30px; */
+    /* padding: 3px; */
+}
+
+.btns {
+    margin-bottom: -83px;
+}
+
+.s1 {
+    max-width: 30%;
+    /* background-color: red; */
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 12px;
+    margin-top: -53px;
+}
+
+li {
+    list-style: none;
+    margin-top: -50px;
+}
+
+/* 
+.action{
+    background-color: blue;
+} */
+
+.la {
+    /* background-color: red; */
+    font-weight: bold;
+    color: black;
+}
+
+
+/* add.user.php file code  */
+.fo2{
+    border: 8px solid rgb(1, 0, 2);
+    width: 40%;
+    height: 90%;
+    background-color: rgb(193, 219, 236);
+    font-size: 18px;
+    margin-top: 2%;
+}
+
+.btn5 {
+    background-color: rgb(17, 196, 35);
+    margin-left: 80%;
+    float: right;
+    margin-right: 3%;
+}
+
+.btn6 {
+    background-color: red;
+    /* margin-left: 80%; */
+    float: right;
+    margin-right: 55px;
+}
+
+/* Edit.php code  */
+
+.fo3{
+    border: 8px solid rgb(1, 0, 2);
+    width: 40%;
+    height: 90%;
+    background-color: rgb(193, 219, 236);
+    font-size: 18px;
+    margin-top: 2%;
+}
+
+
+.btn7 {
+    background-color: rgb(32, 45, 55);
+    /* margin-left: 80%; */
+    color: wheat;
+    width: 20%;
+    height: 25px;
+    
+}
+
+/* sorting code  */
+
+.sortt{
+    background-color: black;
+}
+
+.error{
+ color: red;   
+ background-color: red;
+}
